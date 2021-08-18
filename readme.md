@@ -1,4 +1,6 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+Full Play List link >>> https://youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH
+
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
